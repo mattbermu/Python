@@ -1,3 +1,5 @@
+# Practice with if/elif/else statements in Python
+
 temperature = 25
 
 if temperature > 30:
@@ -10,3 +12,4 @@ elif temperature > 10:
 else:
     print("It's cold")
 print("Done")
+
